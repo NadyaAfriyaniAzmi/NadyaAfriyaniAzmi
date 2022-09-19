@@ -1,5 +1,5 @@
 ### 👋 Hi, Yeorebun
-<h1 text-alight="center">
+<h1 align="center">
 HI, I'm Nadya Afriyani Azmi🦄
 </h1>
 
